@@ -1,0 +1,37 @@
+@media screen and (max-width:320px) {
+    .res{
+        height: 150px;
+    }
+}
+@media screen and (min-width:321px) {
+    .res{
+        height: 175px;
+    }
+}
+@media screen and (min-width:376px) {
+    .res{
+        height: 200px;
+    }
+}
+@media screen and (min-width:426px) {
+    .res{
+        height: 300px;
+    }
+}
+@media screen and (min-width:769px) {
+    .res{
+        height: 400px;
+    }
+}
+@media screen and (min-width:1025px) {
+    .res{
+        height: 500px;
+    }
+}
+
+.res{
+    width: 80%;
+    margin-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
